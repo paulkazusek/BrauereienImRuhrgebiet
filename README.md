@@ -11,3 +11,4 @@
 | Norschi Bräu | Lichtenplatzstr. 3, 58285 Gevelsberg | [norschibrau.de](https://www.norschibrau.de/) | [@norschibrau](https://instagram.com/norschibrau) |
 | GE Bräu GmbH | Ahstraße 6-8, 45879 Gelsenkirchen | [ge-braeu.de](https://ge-braeu.de/) | [@ge.braeu](https://instagram.com/ge.braeu) |
 | Brauwerk Schacht8 | Römerstraße 96, 45721 Haltern am See | [brauwerk-schacht8.de](https://brauwerk-schacht8.de/) | [@brauwerk_schacht8](https://instagram.com/brauwerk_schacht8) |
+| Daniel Lessig |  | [lessigs.com](https://lessigs.com/) | [@lessigs_brauwerkstatt](https://instagram.com/lessigs_brauwerkstatt) |
