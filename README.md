@@ -22,3 +22,4 @@
 | Dortmunder Borussia Brauerei GmbH | Oesterholzstraße 60, 44145 Dortmund| [borussiabrauerei.de](https://www.borussiabrauerei.de/) | [@borussiabrauerei](https://instagram.com/borussiabrauerei) |
 | Dampfe – Das Borbecker Brauhaus | Heinrich-Brauns-Straße 9-15, 45355 Essen | [dampfe.de](https://www.dampfe.de/) | [@dampfe.essen.borbeck](https://instagram.com/dampfe.essen.borbeck) |
 | Jacob Stauder GmbH & Co. KG | Stauderstraße 88, 45326 Essen | [stauder.de](https://stauder.de/) | [@stauder_privatbrauerei](https://instagram.com/stauder_privatbrauerei) |
+| Brauerei W. Isenbeck & Co. AG || [isenbeck.de](https://isenbeck.de/) ||
