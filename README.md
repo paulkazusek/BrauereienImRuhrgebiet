@@ -17,3 +17,4 @@
 | Bergmann Brauerei GmbH | Elias-Bahn-Weg 2, 44263 Dortmund | [harte-arbeit-ehrlicher-lohn.de](https://harte-arbeit-ehrlicher-lohn.de/) | [@bergmann.brauerei](https://instagram.com/bergmann.brauerei) |
 | Kaiser-Brauerei C. Thomas GmbH | Menglinghauser Str. 100, 44227 Dortmund | [kaiser-brauerei.com](https://kaiser-brauerei.com) | [@kaiserbrauereidortmund](https://instagram.com/kaiserbrauereidortmund) |
 | Dortmunder Hansa-Brauerei GmbH | Steigerstraße 20, 44145 Dortmund | [hansa-bier.de](https://www.hansa-bier.de) ||
+|||| [@dortmunder.kronen](https://instagram.com/dortmunder.kronen) |
