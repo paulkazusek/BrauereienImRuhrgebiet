@@ -4,3 +4,4 @@
 |-----------------------|-----------------------|-----------------------|-----------------------|
 | Vormann Brauerei      | Braugasse 3-5, 58091 Hagen-Dahl | [vormann-brauerei.de](https://www.vormann-brauerei.de/) | [@vormann_brauerei](https://instagram.com/vormann_brauerei) |
 | Privatbrauerei Moritz Fiege GmbH & Co. KG | Moritz-Fiege-Straße 1, 44787 Bochum | [moritzfiege.de](https://moritzfiege.de/) | [@moritzfiegebrauerei](https://instagram.com/moritzfiegebrauerei) |
+| Hövels Hausbrauerei | Hövelsstr. 25, 44137 Dortmund | [hoevels-hausbrauerei.de](https://www.hoevels-hausbrauerei.de/) | [@hoevels](https://instagram.com/hoevels) [@hoevels.hausbrauerei](https://instagram.com/hoevels.hausbrauerei) |
