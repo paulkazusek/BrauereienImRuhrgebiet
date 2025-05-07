@@ -7,4 +7,4 @@
 | Hövels Hausbrauerei | Hövelsstr. 25, 44137 Dortmund | [hoevels-hausbrauerei.de](https://www.hoevels-hausbrauerei.de/) | [@hoevels](https://instagram.com/hoevels) [@hoevels.hausbrauerei](https://instagram.com/hoevels.hausbrauerei) |
 | Kloster-Brauerei Hamm | Von-Galen-Straße 36, 59063 Hamm | [klosterbrauerei-hamm.de](https://www.klosterbrauerei-hamm.de/) | [@kloster_brauerei_hamm](https://instagram.com/kloster_brauerei_hamm) |
 | Aktionsbrauerei Hanno Dähne | Eschstr. 48, 44629 Herne | [hannosgegenmassenbierhaltung.de](https://www.hannosgegenmassenbierhaltung.de/) | [@hannosbier](https://www.instagram.com/hannosbier/) |
-| Breckbräu | Frankfurter Str. 74, 58339 Breckerfeld | [breckbraeu.de/](http://www.breckbraeu.de/) | [@breckbraeu2018](https://instagram.com/breckbraeu2018) |
+| Breckbräu | Frankfurter Str. 74, 58339 Breckerfeld | [breckbraeu.de](http://www.breckbraeu.de/) | [@breckbraeu2018](https://instagram.com/breckbraeu2018) |
