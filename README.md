@@ -15,3 +15,4 @@
 | Rheingold Brauerei Duisburg | Düsseldorfer Straße 387, 47055 Duisburg | [rheingold-brauerei.de](http://rheingold-brauerei.de/) | [@rheingoldbrauerei](https://instagram.com/rheingoldbrauerei) |
 | Essener Braumanufaktur | Dachsfeld 40a, 45357 Essen | [essener-braumanufaktur.de](https://essener-braumanufaktur.de/) | [@ebm_bier](https://instagram.com/ebm_bier) |
 | Bergmann Brauerei GmbH | Elias-Bahn-Weg 2, 44263 Dortmund | [harte-arbeit-ehrlicher-lohn.de](https://harte-arbeit-ehrlicher-lohn.de/) | [@bergmann.brauerei](https://instagram.com/bergmann.brauerei) |
+||| [kaiser-brauerei.com](https://kaiser-brauerei.com) | [@kaiserbrauereidortmund](https://instagram.com/kaiserbrauereidortmund) |
