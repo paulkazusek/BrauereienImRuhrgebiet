@@ -13,5 +13,5 @@
 | Brauwerk Schacht8 | Römerstraße 96, 45721 Haltern am See | [brauwerk-schacht8.de](https://brauwerk-schacht8.de/) | [@brauwerk_schacht8](https://instagram.com/brauwerk_schacht8) |
 | Daniel Lessig | Waldenburgstr. 24, 44263 Dortmund | [lessigs.com](https://lessigs.com/) | [@lessigs_brauwerkstatt](https://instagram.com/lessigs_brauwerkstatt) |
 | Rheingold Brauerei Duisburg | Düsseldorfer Straße 387, 47055 Duisburg | [rheingold-brauerei.de](http://rheingold-brauerei.de/) | [@rheingoldbrauerei](https://instagram.com/rheingoldbrauerei) |
-| Essener Braumanufaktur | | [essener-braumanufaktur.de](https://essener-braumanufaktur.de/) | [@ebm_bier](https://instagram.com/ebm_bier) |
+| Essener Braumanufaktur | Dachsfeld 40a, 45357 Essen | [essener-braumanufaktur.de](https://essener-braumanufaktur.de/) | [@ebm_bier](https://instagram.com/ebm_bier) |
 
