@@ -12,3 +12,5 @@
 | GE Bräu GmbH | Ahstraße 6-8, 45879 Gelsenkirchen | [ge-braeu.de](https://ge-braeu.de/) | [@ge.braeu](https://instagram.com/ge.braeu) |
 | Brauwerk Schacht8 | Römerstraße 96, 45721 Haltern am See | [brauwerk-schacht8.de](https://brauwerk-schacht8.de/) | [@brauwerk_schacht8](https://instagram.com/brauwerk_schacht8) |
 | Daniel Lessig | Waldenburgstr. 24, 44263 Dortmund | [lessigs.com](https://lessigs.com/) | [@lessigs_brauwerkstatt](https://instagram.com/lessigs_brauwerkstatt) |
+| Rheingold Brauerei Duisburg | Düsseldorfer Straße 387, 47055 Duisburg | [rheingold-brauerei.de](http://rheingold-brauerei.de/) | [@rheingoldbrauerei](https://instagram.com/rheingoldbrauerei) |
+
