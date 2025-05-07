@@ -18,3 +18,4 @@
 | Kaiser-Brauerei C. Thomas GmbH | Menglinghauser Str. 100, 44227 Dortmund | [kaiser-brauerei.com](https://kaiser-brauerei.com) | [@kaiserbrauereidortmund](https://instagram.com/kaiserbrauereidortmund) |
 | Dortmunder Hansa-Brauerei GmbH | Steigerstraße 20, 44145 Dortmund | [hansa-bier.de](https://www.hansa-bier.de) ||
 ||| [kronen.de](https://www.kronen.de/) | [@dortmunder.kronen](https://instagram.com/dortmunder.kronen) |
+| Wiegenbräu| Fritz-Lehmhaus-Weg 14, 45549 Sprockhövel | [wiegenbräu.de](https://www.xn--wiegenbru-22a.de/) ||
