@@ -14,4 +14,4 @@
 | Daniel Lessig | Waldenburgstr. 24, 44263 Dortmund | [lessigs.com](https://lessigs.com/) | [@lessigs_brauwerkstatt](https://instagram.com/lessigs_brauwerkstatt) |
 | Rheingold Brauerei Duisburg | Düsseldorfer Straße 387, 47055 Duisburg | [rheingold-brauerei.de](http://rheingold-brauerei.de/) | [@rheingoldbrauerei](https://instagram.com/rheingoldbrauerei) |
 | Essener Braumanufaktur | Dachsfeld 40a, 45357 Essen | [essener-braumanufaktur.de](https://essener-braumanufaktur.de/) | [@ebm_bier](https://instagram.com/ebm_bier) |
-
+| Bergmann Brauerei || [harte-arbeit-ehrlicher-lohn.de](https://harte-arbeit-ehrlicher-lohn.de/) | [@bergmann.brauerei](https://instagram.com/bergmann.brauerei) |
