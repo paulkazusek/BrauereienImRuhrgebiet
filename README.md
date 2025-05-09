@@ -23,3 +23,4 @@
 | Dampfe – Das Borbecker Brauhaus | Heinrich-Brauns-Straße 9-15, 45355 Essen | [dampfe.de](https://www.dampfe.de/) | [@dampfe.essen.borbeck](https://instagram.com/dampfe.essen.borbeck) |
 | Jacob Stauder GmbH & Co. KG | Stauderstraße 88, 45326 Essen | [stauder.de](https://stauder.de/) | [@stauder_privatbrauerei](https://instagram.com/stauder_privatbrauerei) |
 | Brauerei W. Isenbeck & Co. AG || [isenbeck.de](https://isenbeck.de/) ||
+| Wenkers am Markt | Betenstraße 1, 44137 Dortmund | [wenkers.de](https://wenkers.de) | [@wenkersbrauhaus](https://instagram.com/wenkersbrauhaus) |
