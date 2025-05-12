@@ -24,3 +24,4 @@
 | Jacob Stauder GmbH & Co. KG | Stauderstraße 88, 45326 Essen | [stauder.de](https://stauder.de/) | [@stauder_privatbrauerei](https://instagram.com/stauder_privatbrauerei) |
 | Brauerei W. Isenbeck & Co. AG || [isenbeck.de](https://isenbeck.de/) ||
 | Wenkers am Markt | Betenstraße 1, 44137 Dortmund | [wenkers.de](https://wenkers.de) | [@wenkersbrauhaus](https://instagram.com/wenkersbrauhaus) |
+| Brauhaus-Hotel Rütershoff | Schillerstraße 33, 44575 Castrop-Rauxel| [brauhaus-ruetershoff.de/](https://brauhaus-ruetershoff.de/) | [@brauhausruetershoff](https://instagram.com/brauhausruetershoff) |
