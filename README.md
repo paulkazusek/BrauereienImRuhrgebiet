@@ -26,3 +26,4 @@
 | Wenkers am Markt | Betenstraße 1, 44137 Dortmund | [wenkers.de](https://wenkers.de) | [@wenkersbrauhaus](https://instagram.com/wenkersbrauhaus) |
 | Brauhaus-Hotel Rütershoff | Schillerstraße 33, 44575 Castrop-Rauxel| [brauhaus-ruetershoff.de/](https://brauhaus-ruetershoff.de/) | [@brauhausruetershoff](https://instagram.com/brauhausruetershoff) |
 | Braumanufaktur Bier4651 | Westfalenstraße 19, 44651 Herne-Wanne-Eickel | [braumanufaktur-bier4651.de](https://braumanufaktur-bier4651.de/) | [@braumanufaktur_bier4651](https://instagram.com/braumanufaktur_bier4651) |
+| MÜCKE || [muecke-craftbeer.de](https://www.muecke-craftbeer.de/) | [@muecke_bier](https://instagram.com/muecke_bier) |
