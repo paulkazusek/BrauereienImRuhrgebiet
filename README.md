@@ -28,3 +28,4 @@
 | Braumanufaktur Bier4651 | Westfalenstraße 19, 44651 Herne-Wanne-Eickel | [braumanufaktur-bier4651.de](https://braumanufaktur-bier4651.de/) | [@braumanufaktur_bier4651](https://instagram.com/braumanufaktur_bier4651) |
 | MÜCKE || [muecke-craftbeer.de](https://www.muecke-craftbeer.de/) | [@muecke_bier](https://instagram.com/muecke_bier) |
 | Brauprojekt 777 GbR | Friedrich-Wilhelm Str. 48, 46562 Voerde | [brauprojekt777.de](https://www.brauprojekt777.de/) | [@brauprojekt_777](https://instagram.com/brauprojekt_777) |
+| PiepNitz Craft-Bier UG | Wattenscheider Hellweg 145, 44867 Bochum | [piepnitz.de](https://www.piepnitz.de/) | [@piepnitz_craftbier](https://instagram.com/piepnitz_craftbier) |
