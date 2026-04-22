@@ -30,3 +30,4 @@
 | Brauprojekt 777 GbR | Friedrich-Wilhelm Str. 48, 46562 Voerde | [brauprojekt777.de](https://www.brauprojekt777.de/) | [@brauprojekt_777](https://instagram.com/brauprojekt_777) |
 | PiepNitz Craft-Bier UG | Wattenscheider Hellweg 145, 44867 Bochum | [piepnitz.de](https://www.piepnitz.de/) | [@piepnitz_craftbier](https://instagram.com/piepnitz_craftbier) |
 | Albrecht & Hecking GbR | Rostocker Str. 5a, 46145 Oberhausen | [piepnitz.de](https://www.braujungens.de/) | [@braujungens](https://instagram.com/braujungens) |
+| Bottroper Bier GmbH | Sterkrader Straße 177, 46242 Bottrop | [bottroper-bier.com](https://bottroper-bier.com)](https://bottroper-bier.com)) | [@bottroper_bier](https://instagram.com/bottroper_bier) |
