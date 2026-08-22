@@ -31,3 +31,4 @@
 | PiepNitz Craft-Bier UG | Wattenscheider Hellweg 145, 44867 Bochum | [piepnitz.de](https://www.piepnitz.de/) | [@piepnitz_craftbier](https://instagram.com/piepnitz_craftbier) |
 | Albrecht & Hecking GbR | Rostocker Str. 5a, 46145 Oberhausen | [piepnitz.de](https://www.braujungens.de/) | [@braujungens](https://instagram.com/braujungens) |
 | Bottroper Bier GmbH | Sterkrader Straße 177, 46242 Bottrop | [bottroper-bier.com](https://bottroper-bier.com) | [@bottroper_bier](https://instagram.com/bottroper_bier) |
+| Frohnhauser Sudwerkstatt | Pollerbergstraße 3, 45145 Essen | [[frohnhauser-sudwerkstatt.de](https://frohnhauser-sudwerkstatt.de) | [@frohnhausersudwerkstatt](https://www.instagram.com/frohnhausersudwerkstatt/) |
